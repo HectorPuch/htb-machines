@@ -1,6 +1,6 @@
 # HTB Machines Walkthrough
 
-This repository contains detailed write-ups of retired machines from Hack The Box (HTB). Each write-up provides a step-by-step guide to compromising the machine, from initial enumeration to privilege escalation.
+This repository contains **detailed walkthroughs** of retired machines from **Hack The Box (HTB)**. Each walkthrough provides a step-by-step guide to compromising the machine, from initial enumeration to privilege escalation.
 
 ## What's Included?
 
@@ -11,5 +11,5 @@ This repository contains detailed write-ups of retired machines from Hack The Bo
 
 ## Rules and Considerations
 
-- This repository does not include write-ups for active machines, following Hack The Box's rules.
+- This repository **does not include** walkthroughs for **active machines**, following Hack The Box's rules.
 - All content is intended for educational and ethical purposes.
